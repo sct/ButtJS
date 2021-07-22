@@ -37,7 +37,7 @@
     "axios": "^0.21.1",
     "discord.js": "discordjs/discord.js",
     "dotenv": "^9.0.2",
-    "fastify": "^3.18.0",
+    "fastify": "^3.19.2",
     "fastify-cors": "^6.0.1",
     "hyphenation.en-us": "^0.2.1",
     "hypher": "^0.2.5",
